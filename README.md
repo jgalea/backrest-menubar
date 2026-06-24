@@ -1,14 +1,14 @@
-<div align="center">
+<p align="center">
+  <img src=".github/assets/banner.png" alt="Backrest Status" width="820">
+</p>
 
-# Backrest Status
+<p align="center">
+  <a href="https://github.com/garethgeorge/backrest"><img src="https://img.shields.io/badge/FOR-BACKREST-F5A623?style=for-the-badge" alt="For Backrest"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/LICENSE-MIT-5C9E31?style=for-the-badge" alt="License: MIT"></a>
+  <a href="https://jeangalea.com"><img src="https://img.shields.io/badge/BUILT%20BY-JEAN%20GALEA-8A2BE2?style=for-the-badge" alt="Built by Jean Galea"></a>
+</p>
 
-[![For Backrest](https://img.shields.io/badge/FOR-BACKREST-F5A623?style=for-the-badge)](https://github.com/garethgeorge/backrest)
-[![License](https://img.shields.io/badge/LICENSE-MIT-5C9E31?style=for-the-badge)](LICENSE)
-[![Built by](https://img.shields.io/badge/BUILT%20BY-JEAN%20GALEA-8A2BE2?style=for-the-badge)](https://jeangalea.com)
-
-**A native macOS menu bar app that shows whether your [Backrest](https://github.com/garethgeorge/backrest) backups are actually healthy.**
-
-</div>
+<p align="center"><b>A native macOS menu bar app that shows whether your <a href="https://github.com/garethgeorge/backrest">Backrest</a> backups are actually healthy.</b></p>
 
 Backrest's built-in tray is a launcher. This sits in your menu bar and tells you, at a glance, whether every backup plan is current, running, or overdue, without opening the dashboard.
 
